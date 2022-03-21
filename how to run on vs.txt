@@ -1,0 +1,3 @@
+https://matrixxcode.com/how-to-run-solidity-smart-contract-in-vs-code/
+
+check out this method on the link above
